@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+.DS_Store
+dev.env.json
+prod.env.json
+package-lock.json
+ref/crazytweet.pl
+ref/dadjokes.pl
+helpers/discord_old.ts
