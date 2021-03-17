@@ -1,4 +1,4 @@
-const authToken = 'NTcwNzQ5NjE2MDkwNTEzNDA5.XMD1aw.FaM18sknvVyhHx7FDzCDV3OjQ3c';
+const authToken = '';
 const Discord = require('discord.js');
 const client = new Discord.Client();
 client.once('ready', () => {
